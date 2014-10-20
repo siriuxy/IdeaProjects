@@ -52,8 +52,8 @@
       <file leaf-file-name="Percolation.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Percolation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.065989845" vertical-offset="941" max-vertical-offset="2115">
-              <caret line="61" column="21" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.50507617" vertical-offset="941" max-vertical-offset="2115">
+              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -524,19 +524,19 @@
       <updated>1413164815258</updated>
       <workItem from="1413164816648" duration="9905000" />
       <workItem from="1413501258313" duration="17961000" />
-      <workItem from="1413779339272" duration="668000" />
+      <workItem from="1413779339272" duration="1017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28534000" />
+    <option name="totallyTimeSpent" value="28883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1260" height="718" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -744,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.065989845" vertical-offset="941" max-vertical-offset="2115">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.50507617" vertical-offset="941" max-vertical-offset="2115">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
           <folding />
         </state>
       </provider>
